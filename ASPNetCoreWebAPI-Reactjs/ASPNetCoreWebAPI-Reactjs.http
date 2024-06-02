@@ -1,0 +1,6 @@
+@ASPNetCoreWebAPI_Reactjs_HostAddress = http://localhost:5286
+
+GET {{ASPNetCoreWebAPI_Reactjs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
